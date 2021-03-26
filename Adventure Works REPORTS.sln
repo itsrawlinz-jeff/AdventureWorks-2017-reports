@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Adventure Works REPORTS", "Adventure Works REPORTS\Adventure Works REPORTS.rptproj", "{9E9D1E70-C074-48B1-826A-B459A581846D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.Debug|Default.ActiveCfg = Debug
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.Debug|Default.Build.0 = Debug
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.Debug|Default.Deploy.0 = Debug
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.DebugLocal|Default.Build.0 = DebugLocal
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.Release|Default.ActiveCfg = Release
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.Release|Default.Build.0 = Release
+		{9E9D1E70-C074-48B1-826A-B459A581846D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83AC691B-8CCF-48C0-9E42-0DCFF629AB9B}
+	EndGlobalSection
+EndGlobal
