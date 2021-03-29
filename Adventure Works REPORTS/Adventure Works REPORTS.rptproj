@@ -56,6 +56,7 @@
     <Report Include="NOCONTACTS.rdl" />
     <Report Include="NOCONTACTSandHOWMANYTHEYEXIST.rdl" />
     <Report Include="NOCONTACTSandHOWMANYTHEYEXISTANDHAVE100ORMORE.rdl" />
+    <Report Include="ONLY 1 line per Employee, the current one to be precise.rdl" />
     <Report Include="PurchasingManagersCONTACTS .rdl" />
     <Report Include="RetrieveContactTypeforManagers.rdl" />
     <Report Include="RetrieveContactTypeforMarketingManage.rdl" />
